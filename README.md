@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Julia</h1>
-<h3>Web och app developer with a background in engineering and with strong analytical skills.</h3>
+<h3>Web and app developer with a background in engineering and with strong analytical skills.</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabelle1&layout=compact)
 <h3 align="left">Languages and Tools:</h3>
