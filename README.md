@@ -3,9 +3,17 @@
     <img src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-101123.jpg?semt=ais_hybrid" width="200" />
   <h3>Web and app developer with a background in engineering and with strong analytical skills.</h3>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabelle1&layout=compact)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div id="stats" align="center">
+  <h2>Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabelle1&layout=compact&theme=vision-friendly-light" alt="Top Languages"/>
+</div>
+<br/>
+<div id="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=juliabelle1&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+</div>
+<h3 align="center">Languages and Tools:</h3>
+<br/>
+<p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
