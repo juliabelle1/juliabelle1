@@ -1,6 +1,8 @@
-<h1>Hi 👋, I'm Julia</h1>
-<h3>Web and app developer with a background in engineering and with strong analytical skills.</h3>
-
+<div id="header" align="center">
+  <h1>Hi there 👋, I'm Julia</h1>
+    <img src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-101123.jpg?semt=ais_hybrid" width="200" />
+  <h3>Web and app developer with a background in engineering and with strong analytical skills.</h3>
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliabelle1&layout=compact)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
